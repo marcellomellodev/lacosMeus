@@ -43,7 +43,7 @@ export function Footer(){
             <div className="box-section">
               <h3>Contact</h3>
                 <ul>
-                  <li> <a href="tel:+5585985350707"> (85) 85 98535-0707</a></li>
+                  <li> <a href="tel:+5585985350707"> (85) 98535-0707</a></li>
                   <li><a href="mailto:contato@lacosmeus">contato@lacosmeus.com</a></li>
                 </ul>
             </div>
