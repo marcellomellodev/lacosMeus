@@ -18,7 +18,7 @@ export default function Details() {
       <MyCarousel />
 
       <main>
-         <SectionCardMain1 title="Find The Best Fashion Style For You">
+         <SectionCardMain1 title="Laços e Tiaras">
           <div className="wrapperCard">
             <div className="box_card_main" id="boxCard1">
               <div className="img_main">
@@ -58,7 +58,7 @@ export default function Details() {
           </div>
         </SectionCardMain1>
 
-      <SectionCardMain2 title="Find The Best Fashion Style For You">
+      <SectionCardMain2 title="Laços e Tiaras">
           <div className="wrapperCard">
             <div className="box_card_main" id="boxCard1">
               <div className="img_main">
@@ -98,7 +98,7 @@ export default function Details() {
           </div>
         </SectionCardMain2>
 
-         <SectionCardMain3 title="Find The Best Fashion Style For You">
+         <SectionCardMain3 title="Laços e Tiaras">
           <div className="wrapperCard">
             <div className="box_card_main" id="boxCard1">
               <div className="img_main">
